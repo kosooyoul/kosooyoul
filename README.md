@@ -1,4 +1,6 @@
 ### Hi there 👋
+---
+<p align="right"><a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/silentsoft/hits.svg?label=Hits&amp;color=35cfcf"></a></p>
 
 <!--
 **kosooyoul/kosooyoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
