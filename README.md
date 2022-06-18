@@ -1,10 +1,10 @@
- 
+## Hi there 👋
+I am backend developer who love javascript and typescript.
+
+
 <p align="right">
   <a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/kosooyoul.svg?label=Hits&color=35cfcf"/></a>
 </p>
-
-## Hi there 👋
-I am backend developer who love javascript and typescript.
 
 
 <!--
