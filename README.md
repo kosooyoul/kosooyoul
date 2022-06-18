@@ -1,8 +1,11 @@
-### Hi there 👋
-<div align="right">
-  <span>Backend developer who love Javascript and Typescript</span>
+ 
+<p align="right">
   <a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/kosooyoul.svg?label=Hits&color=35cfcf"/></a>
-</div>
+</p>
+
+## Hi there 👋
+I am backend developer who love javascript and typescript.
+
 
 <!--
 **kosooyoul/kosooyoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
