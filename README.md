@@ -1,6 +1,8 @@
 ### Hi there 👋
----
-<p align="right"><a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/silentsoft/hits.svg?label=Hits&amp;color=35cfcf"></a></p>
+<div align="right">
+  <span>Backend developer who love Javascript and Typescript</span>
+  <a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/kosooyoul.svg?label=Hits&color=35cfcf"/></a>
+</div>
 
 <!--
 **kosooyoul/kosooyoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
