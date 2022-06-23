@@ -6,6 +6,7 @@ I am backend developer who love javascript and typescript.
   <a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/kosooyoul.svg?label=Hits&color=35cfcf"/></a>
 </p>
 
+<img alt="github-repos" src="https://dsvg.auoi.net/svg/github-repos?highlights=javascript,typescript,go&loves=auoi,study"/>
 
 <!--
 **kosooyoul/kosooyoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
