@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am backend developer who love javascript and typescript.
+I am backend developer, and I love javascript and typescript so much.
 
 
 <p align="right">
